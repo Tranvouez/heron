@@ -1,0 +1,16 @@
+Package: heron
+Type: Package
+Title: Package heron prend renvoie l'aire d'un triangle 
+Version: 0.1.0
+Authors@R: 
+    person("Benoit-Alexandre", "Tranvouez", , "benoit-alexandre.tranvouez@etu.univ-nantes.fr", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Le package permet de calculer l'aire d'un triangle avec la longueur de ses côtés. License: What license is it under?
+  Nous utilisons pour se faire les travaux de recherche d'Heron Alexandrie. 
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
